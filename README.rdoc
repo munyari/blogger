@@ -7,5 +7,7 @@ Simple blog app as part of a tutorial. Read more at {the Odin Project}[http://ww
   * 2.2.2p95 (2015-04-13 revision 50295) [x86_64-linux]
   * Rails 4.2.3
 
-* System dependencies
+* Required gems
 
+  * paperclip
+  * sorcery
