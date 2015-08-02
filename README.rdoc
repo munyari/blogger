@@ -1,5 +1,5 @@
 == README
-Simple blog app as part of a tutorial. Read more at [the Odin Project](http://www.theodinproject.com) and [Jumpstart Labs](http://tutorials.jumpstartlab.com/projects/blogger.html)
+Simple blog app as part of a tutorial. Read more at {the Odin Project}[http://www.theodinproject.com] and {Jumpstart Labs}[http://tutorials.jumpstartlab.com/projects/blogger.html]
 
 
 * Ruby version
